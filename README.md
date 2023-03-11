@@ -21,6 +21,7 @@
 1. 在 assets/conf.js 修改宠物配置和主人信息
 2. 在 assets/pet/ 修改宠物形象
 3. 可以用 Ctrl+Shift+i 打开开发者工具
+4. Github：https://github.com/Jeun1358/opet
 
 更新日志：[CHANGELOG.md](CHANGELOG.md)
 许可证：[LICENSE](LICENSE)
